@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Innkp</string>
+    <string name="title_home">Home</string>
+    <string name="title_course">Course</string>
+    <string name="title_training">Training</string>
+    <string name="title_social">Social</string>
+    <string name="title_mine">Mine</string>
+    <string name="add_innovate">Add Innovate</string>
+    <string name="add_complaints">Add Complaints</string>
+    <string name="add_feeling">Add Feeling</string>
+    <string name="refreshing">Loading&#8230;</string>
+    <string name="click_load_more">More...</string>
+    <string name="resource_pic">Picture</string>
+    <string name="resource_title">Title</string>
+    <string name="resource_played">1w times played</string>
+    <string name="resource_name">Name</string>
+    <string name="resource_summery">Summery</string>
+    <string name="patent_course">Patent Course</string>
+    <string name="add_text_done">Done</string>
+    <string name="add_idea_title">title</string>
+    <string name="add_idea_text">Something to write...</string>
+    <string name="share_to">Share this to</string>
+    <string name="quit_alert">Are you sure to quit?</string>
+    <string name="alert_quit">OK</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="release_submit">OK to submit?</string>
+
+</resources>
