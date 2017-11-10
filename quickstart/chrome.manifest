@@ -1,0 +1,3 @@
+content quickstart jar:chrome/quickstart.jar!/content/
+locale	quickstart	en-US		jar:chrome/quickstart.jar!/locale/en-US/
+skin	quickstart	classic/1.0	jar:chrome/quickstart.jar!/skin/
